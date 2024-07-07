@@ -1,0 +1,1 @@
+Amazon Clone (HTML & CSS): This project is a front-end mockup inspired by Amazon's design. Built with HTML and CSS, it demonstrates my ability to create a visually appealing and well-structured web page layout.
